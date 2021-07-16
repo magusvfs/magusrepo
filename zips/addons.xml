@@ -10,10 +10,11 @@
 	<provides>video</provides>
 </extension>  
 <extension point="xbmc.addon.repository" name="Nome Repository">
-	<info compressed="false">https://raw.githubusercontent.com/magusplay/magusplayrepo/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/magusplay/magusplayrepo/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/magusplay/magusplayrepo/master</datadir>
-			<hashes>false</hashes>
+	<dir>
+            <info compressed="false">https://raw.githubusercontent.com/magusvfs/magusrepo/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/magusvfs/magusrepo/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/magusvfs/magusrepo/main/zips/</datadir>
+        </dir>
   </extension> 
 <extension point="xbmc.addon.metadata">
 	<summary lang="pt">Addon Magusplay filmes series e animes atualizados Diariamente</summary>
