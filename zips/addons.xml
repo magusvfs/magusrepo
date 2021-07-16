@@ -1,5 +1,4 @@
 <addons>
-<?xml version="3.0.2" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.magusplay.matrix" name="[B]MAGUSPLAY[/B]" version="3.0.2" provider-name="Magus Iav"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
