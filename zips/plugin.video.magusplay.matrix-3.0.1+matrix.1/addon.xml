@@ -14,20 +14,6 @@
             <checksum>https://raw.githubusercontent.com/magusplay/magusplayrepo/main/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/magusplay/magusplayrepo/master</datadir>
 			<hashes>false</hashes>
-			
-			<dir minversion="17.0.0" maxversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/magusplay/magusplayrepo/master/leia/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/magusplay/magusplayrepo/master/leia/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/magusplay/magusplayrepo/master/leia</datadir>
-			<hashes>false</hashes>
-    </dir>
-   
-   <dir minversion="18.9.1">
-			<info compressed="false">https://raw.githubusercontent.com/magusplay/magusplayrepo/master/matrix/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/magusplay/magusplayrepo/master/matrix/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/magusplay/magusplayrepo/master/matrix</datadir>
-			<hashes>false</hashes>
-    </dir>
   </extension> 
 <extension point="xbmc.addon.metadata">
 	<summary lang="pt">Addon Magusplay filmes series e animes atualizados Diariamente</summary>
